@@ -2,7 +2,9 @@
 ---
 💫 About Me:
 
-🔭 I'm currently pursuing my Master's degree in Data Science.<br>🤝 I’m looking to collaborate on intriguing Machine Learning or Deep Learning projects.<br>🌱 I’m currently learning Deep Learning with PyTorch<br>
+🔭 I'm currently pursuing my Master's degree in Data Science.
+🤝 I’m looking to collaborate on intriguing Machine Learning or Deep Learning projects.
+🌱 I’m currently learning Deep Learning with PyTorch
 ---
 💻 Tech Stack:
 

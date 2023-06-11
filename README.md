@@ -4,7 +4,7 @@
 
 ---
 
-####💫 About Me:
+#### 💫 About Me:
 
 - 🔭 I'm currently pursuing my Master's degree in Data Science.
 - 🤝 I’m looking to collaborate on intriguing Machine Learning or Deep Learning projects.

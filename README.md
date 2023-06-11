@@ -17,7 +17,7 @@
 
 - 🔢 Linear Algebra
 - ∫ Calculus 
-- 🔧 Optimization
+- 🔧 Mathematical Optimization
 - 📊 Probability and Statistics
 - 🎯 Supervised algorithms 
 - 🌌 Unsupervised algorithms

@@ -38,11 +38,8 @@
 
 ---
 
-
-<p align="center"> 
-
-*Take a look at my projects and lets get in toutch*📬
-
+<p align="center">
+  <em>Take a look at my projects and let's get in touch</em> 📬
 </p>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/kpsa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>

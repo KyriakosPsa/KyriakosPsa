@@ -6,7 +6,7 @@
 
 #### 💫 About Me:
 
-- 🔭 Currently pursuing a Master's degree in Data Science.
+- 🔭 Currently completing a Master's degree in Data Science.
 - 🤝 Open to collaborating on intriguing Machine Learning or Deep Learning projects.
 - 🌱  I’m currently learning Deep Learning with PyTorch.
 - 👨‍💻 All of my projects are available here.

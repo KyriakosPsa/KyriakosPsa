@@ -40,7 +40,7 @@
 
 #### 📬 How to reach me:
 <p align="center">
-<a href="https://www.linkedin.com/in/kpsa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Find%20me%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kpsa/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:kyriakos.psallidas@gmail.com"><img alt="Email" src="https://img.shields.io/badge?style=for-the-badge&logo=gmail"></a>
 </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

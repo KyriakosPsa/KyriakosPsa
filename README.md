@@ -33,10 +33,14 @@
 
 #### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyriakosPsa&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-   <img src="https://komarev.com/ghpvc/?username=KyriakosPsa" alt="Profile Views">
+  <div style="margin-bottom: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyriakosPsa&theme=dark&hide_border=false" alt="GitHub Streak" />
+  </div>
+  
+  <div style="margin-top: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=KyriakosPsa" alt="Profile Views">
+  </div>
 </p>
-
 ---
 
 <p align="center">

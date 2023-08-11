@@ -32,15 +32,15 @@
 
 
 #### 📈 GitHub Stats:
-<p align="center">
-  <div style="margin-bottom: 10px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyriakosPsa&theme=dark&hide_border=false" alt="GitHub Streak" />
   </div>
   
-  <div style="margin-top: 10px;">
+  <div>
     <img src="https://komarev.com/ghpvc/?username=KyriakosPsa" alt="Profile Views">
   </div>
-</p>
+</div>
 ---
 
 <p align="center">

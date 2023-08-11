@@ -34,7 +34,7 @@
 #### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyriakosPsa&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-  ![](https://komarev.com/ghpvc/?username=KyriakosPsa)
+   <img src="https://komarev.com/ghpvc/?username=KyriakosPsa" alt="Profile Views">
 </p>
 
 ---

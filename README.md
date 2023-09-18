@@ -21,6 +21,7 @@
 - 📊 Probability and Statistics
 - 🎯 Supervised algorithms 
 - 🌌 Unsupervised algorithms
+- 🥽 Computer vision 
 
 ---
 

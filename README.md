@@ -18,8 +18,8 @@
 - ∫ Calculus 
 - 🔧 Mathematical Optimization
 - 📊 Probability and Statistics
-- 🎯 Supervised algorithms 
-- 🌌 Unsupervised algorithms
+- 🎯 Supervised Learning 
+- 🌌 Unsupervised Learning
 - 🥽 Computer vision 
 
 ---

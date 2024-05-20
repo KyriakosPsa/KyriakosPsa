@@ -6,7 +6,7 @@
 
 #### 💬 About Me:
 
-- 🔭 Currently completing a Master's degree in Data Science.
+- 🔭 Currently completing my thesis for a Master's degree in Data Science.
 - 🤝 Open to collaborating on intriguing Machine Learning or Deep Learning projects.
 - 👨‍💻 All of my projects are available here.
 

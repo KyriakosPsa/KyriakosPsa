@@ -1,6 +1,3 @@
-
----
-
 #### 💬 About Me:
 - 🤝 Open to collaborating on intriguing Machine Learning or Deep Learning projects
 - 👨‍💻 All of my personal projects are available here
